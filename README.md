@@ -1,11 +1,11 @@
-# What is the `InputPlayer.bas` module?
+# What is the `playerLogic.bas` module?
 
 This is the module imported by my [PPT Game Maker](https://litygames.itch.io/ppt-game-maker/) add-in to handle player movement and logic for collisions and interactions with the environment.
 
 [PowerPoint Game Maker](https://litygames.itch.io/ppt-game-maker/) is an add-in that allows you to create keyboard-controlled video games in Microsoft PowerPoint, without the need for programming.
 
 > [!IMPORTANT]
-> If you are using [PPT Game Maker](https://litygames.itch.io/ppt-game-maker/), modifying the `InputPlayer.bas` module may affect the functionality of the add-in.
+> If you are using [PPT Game Maker](https://litygames.itch.io/ppt-game-maker/), modifying the `playerLogic.bas` module may affect the functionality of the add-in.
 
 ## Requirements
 
@@ -22,7 +22,7 @@ To integrate this module into your PowerPoint project, follow these steps:
 
 2. In the add-in tab, click `Configure Presentation` > `Add Player`.
 
-This will automatically create and import the `InputPlayer.bas` module into your project.
+This will automatically create and import the `playerLogic.bas` module into your project.
 
 
 ## Contributing
